@@ -77,8 +77,8 @@ if __name__ == "__main__":
         print "------------------------------------------------------------"
         print "\nBest path = %s" % (best_path_vec,)
         for node in best_path_vec:
-            print cities[node] + " --> ",
-        print "Finish!"
+            print "|" + cities[node] + "| -->",
+        print "|Finish!|"
         print "\nBest path cost = %s\n" % (best_path_cost,)
     
     except Exception, e:

@@ -1,31 +1,31 @@
 ((lp0
-S'city 1'
+S'14, 96'
 p1
-aS'city 2'
+aS'31, 93'
 p2
-aS'city 3'
+aS'61, 45'
 p3
-aS'city 4'
+aS'16, 18'
 p4
-aS'city 5'
+aS'33, 68'
 p5
-aS'city 6'
+aS'3, 2'
 p6
-aS'city 7'
+aS'50, 96'
 p7
-aS'city 8'
+aS'95, 58'
 p8
-aS'city 9'
+aS'12, 20'
 p9
-aS'city 10'
+aS'53, 38'
 p10
-aS'city 11'
+aS'89, 71'
 p11
-aS'city 12'
+aS'56, 34'
 p12
-aS'city 13'
+aS'70, 7'
 p13
-aS'city 14'
+aS'31, 57'
 p14
 a(lp15
 (lp16
